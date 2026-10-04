@@ -1,0 +1,21 @@
+Samantha Chen
+Email: samantha.chen@example.com | Phone: (555) 876-5432 | LinkedIn: linkedin.com/in/samanthachen
+Location: Austin, TX
+
+SUMMARY
+Motivated Junior Web Developer with 1.5 years of experience in front-end development, responsive UI design, and JavaScript fundamentals. Eager to grow full-stack skills in a collaborative engineering culture.
+
+EDUCATION
+B.S. in Computer Science — University of Texas at Austin (Graduated: 2023)
+
+TECHNICAL SKILLS
+• Languages: JavaScript, HTML/CSS, basic Python
+• Frontend: React, Tailwind CSS
+• Tools: Git, GitHub, VS Code
+
+EXPERIENCE
+Junior Frontend Developer | NextGen Web Studio (June 2023 – Present)
+• Built reusable UI components using React and HTML/CSS for e-commerce client websites.
+• Collaborated with designers to ensure mobile responsiveness and cross-browser consistency.
+• Integrated REST APIs to fetch product catalogs and dynamic user data.
+• Utilized Git for daily version control and participated in sprint planning and code reviews.

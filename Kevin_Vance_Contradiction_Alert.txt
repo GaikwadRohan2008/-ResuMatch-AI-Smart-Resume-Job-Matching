@@ -1,0 +1,17 @@
+Kevin Vance
+Email: kevin.vance@example.com | Phone: (555) 999-1234
+Location: New York, NY
+
+OBJECTIVE
+Principal Full Stack Architect with 8+ years of experience leading massive enterprise engineering initiatives.
+
+EDUCATION
+B.S. in Information Systems — City College (Graduated: 2023)
+
+CORE COMPETENCIES & KEYWORDS
+Python, JavaScript, TypeScript, React, Next.js, Vue, Angular, Node.js, Express, FastAPI, Django, Flask, Java, C++, C#, Golang, Rust, SQL, NoSQL, Redis, Docker, Kubernetes, AWS, Azure, GCP, Git, CI/CD, Machine Learning, Deep Learning, NLP, Data Science, GraphQL, REST API, Microservices, Cybersecurity, Agile, HTML/CSS.
+
+WORK EXPERIENCE
+Freelance Web Programmer (2023 - Present)
+• Worked on multiple small client web pages and basic styling adjustments.
+• Maintained basic repository updates.

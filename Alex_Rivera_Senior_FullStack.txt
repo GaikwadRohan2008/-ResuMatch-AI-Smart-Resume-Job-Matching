@@ -1,0 +1,27 @@
+Alex Rivera
+Email: alex.rivera@example.com | Phone: (555) 234-5678 | GitHub: github.com/alexrivera
+Location: San Francisco, CA
+
+PROFESSIONAL SUMMARY
+Senior Full-Stack Engineer with 5+ years of experience architecting high-traffic web applications, REST APIs, and modern responsive user interfaces. Passionate about clean code, microservices, and continuous delivery.
+
+EDUCATION
+B.Tech in Computer Science & Engineering — Stanford University (Graduated: 2019)
+
+TECHNICAL SKILLS
+• Languages: Python, TypeScript, JavaScript, SQL, HTML/CSS
+• Frameworks: React, Next.js, FastAPI, Django, Express
+• Databases & Cloud: PostgreSQL, Redis, MongoDB, AWS (EC2, S3, Lambda)
+• DevOps & Tools: Docker, Kubernetes, Git, CI/CD, GitHub Actions
+
+PROFESSIONAL EXPERIENCE
+Senior Software Engineer | CloudScale Labs (2021 – Present)
+• Architected scalable microservices using Python (FastAPI) and PostgreSQL, handling 20M+ monthly requests.
+• Built interactive client-facing dashboards using React, Next.js, and TypeScript with Tailwind CSS.
+• Containerized production workloads using Docker and orchestrated deployments on AWS ECS with automated CI/CD.
+• Reduced database query latency by 45% through Redis caching and PostgreSQL index optimization.
+
+Software Engineer | FinTech Innovations (2019 – 2021)
+• Developed responsive frontend features in React and TypeScript for secure payment gateways.
+• Implemented RESTful backend services with Python Django and integrated relational SQL databases.
+• Maintained 90%+ automated test coverage and managed Git feature branches across an Agile team.
